@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coffee World</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+<header>
+    <div class="container">
+        <div class="header">
+            <a href="#" class="header__logo">
+                <img src="images/logo.svg" alt="Логотип">
+            </a>
+
+            <nav class="nav">
+                <a href="#" class="nav__link">Меню</a>
+                <a href="#" class="nav__link">Акции</a>
+                <a href="#" class="nav__link">Telegram</a>
+                <a href="#" class="btn btn-accent _ml">Заказать</a>
+                <a href="#" class="btn btn-light-pink">Вход</a>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<main>
+    <div class="container">
+        <div class="main">
+            <div class="main__text">
+                <h1 class="title-h1 main__title">Coffee World</h1>
+                <p class="text main__desc">Аромат, который вдохновляет</p>
+                <a href="#" class="btn btn-accent main__btn">К напиткам</a>
+            </div>
+
+            <div class="main__cover">
+                <img 
+            </div>
+        </div>
+    </div>
+</main>
+
+<menu>
+    <div class="container2">
+        <div class="item1"><p>(espresso)</p><img src="images/espresso.svg"></div>
+        <div class="item1"><p>(latte)</p><img src="images/latte.svg"></div>
+        <div class="item1"><p>(dessert)</p><img src="images/dessert.svg"></div>
+        <div class="item1"><p>(beans)</p><img src="images/beans.svg"></div>
+    </div>
+</menu>
+
+<section class="page">
+    <div class="container _line">
+        <div class="sale">
+            <div class="sale__text">
+                <h2 class="title-h2 sale__title">1 + 1</h2>
+                <h3 class="title-h3 sale__title2">На все кофейные напитки</h3>
+                <p class="text sale__desc">
+                    Только сегодня — второй кофе в подарок. Насладитесь вкусом и ароматом вместе!
+                </p>
+                <a href="#" class="btn btn-light-pink">Заказать</a>
+            </div>
+
+            <div class="sale__cover">
+                <img src="images/sale.svg" alt="sale">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="page2">
+    <div class="container3">
+        <div class="add">
+            <h4 class="title-h4 add__title2">Новинки сезона</h4>
+            <img src="images/add.png" alt="">
+            <p class="text add__desc">
+                Авторские напитки, шоколадные десерты и свежая обжарка уже ждут вас.
+            </p>
+            <a href="#" class="btn btn-light-pink">Попробовать</a>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <img src="images/logo2.svg" alt="">
+    <nav class="nav">
+        <a href="#" class="nav__link">Меню</a>
+        <a href="#" class="nav__link">Акции</a>
+        <a href="#" class="nav__link">Telegram</a>
+    </nav>
+</footer>
+
+</body>
+</html>
