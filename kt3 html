@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Coffee World</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="center"> Instagram | О нас </header>
+
+  <main>
+    <h1 class="title">COFFEE WORLD</h1>
+
+    <div class="container">
+      <div class="item item1">
+        <h2>ЭСПРЕССО</h2>
+        <p><i>крепкий и бодрящий</i></p>
+      </div>
+      <div class="item item2">
+        <h2>КАПУЧИНО</h2>
+        <p><i>с нежной пенкой</i></p>
+      </div>
+      <div class="item item3">
+        <h2>ЛАТТЕ</h2>
+        <p><i>мягкий и сливочный</i></p>
+      </div>
+      <div class="item item4">
+        <h2>МОККА</h2>
+        <p><i>с шоколадной ноткой</i></p>
+      </div>
+      <div class="item item5">
+        <h2>РАФ</h2>
+        <p><i>с ванилью</i></p>
+      </div>
+    </div>
+
+    <div class="container1">
+      <div class="item item6">
+        <h2>ДЕСЕРТ</h2>
+        <p><i>шоколадный торт</i></p>
+      </div>
+      <div class="item item7">
+        <h2>ДЕСЕРТ</h2>
+        <p><i>тирамису</i></p>
+      </div>
+      <div class="item item8">
+        <h2>ДЕСЕРТ</h2>
+        <p><i>чизкейк</i></p>
+      </div>
+      <div class="item item9">
+        <h2>ДЕСЕРТ</h2>
+        <p><i>круассан</i></p>
+      </div>
+      <div class="item item0">
+        <h2>ДЕСЕРТ</h2>
+        <p><i>брауни</i></p>
+      </div>
+    </div>
+  </main>
+
+  <footer><b>CoffeeTime</b></footer>
+
+</body>
+</html>
