@@ -1,0 +1,65 @@
+.image{
+  background-image: url(https://img.freepik.com/premium-vector/cartoon-penguin-doodle-seamless-pattern_251661-1228.jpg?semt=ais_hybrid);
+  }
+
+ol{
+  font-family: Arial;
+  font-size: 16px;
+  background-color: #94cbf0;
+}
+
+p{
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.head{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: arial;
+  color: brown;
+  background-color: #c1d4e2;
+}
+
+.foot{
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  font-family: arial;
+  color: brown;
+  background-color: #c1d4e2;
+}
+
+h1{
+  font-family: Calibri;
+  font-size: 30px;
+  color:#124164;
+  text-align: center;
+}
+
+.Div_2{
+  background-color: #94cbf0;
+  text-align: left;
+}
+
+img{
+   border-radius: 30px;
+}
+
+.button-link{
+  display: inline-block;
+padding: 10px 20px;
+background-color: #94cbf0;
+color: white;
+text-decoration: none;
+border-radius: 4px;
+font-family: Arial, sans-serif;
+font-size: 16px;
+}
+
+.button-link:hover {
+background-color: #94cbf0;
+}
